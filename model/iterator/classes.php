@@ -1,0 +1,11 @@
+<?php
+    require_once('model/iterator/StudentAggregate.php');
+    require_once('model/iterator/StudentIterator.php');
+    require_once('model/iterator/EligibleStudentAggregate.php');
+    require_once('model/iterator/EligibleStudentIterator.php');
+    require_once('model/iterator/NoneligibleStudentAggregate.php');
+    require_once('model/iterator/NoneligibleStudentIterator.php');
+    require_once('model/iterator/StudentNode.php');
+    require_once('model/iterator/AwardeeStudentAggregate.php');
+    require_once('model/iterator/AwardeeStudentIterator.php');
+?>
